@@ -1,0 +1,30 @@
+body{
+    
+    background-image :url('https://images.unsplash.com/photo-1508615039623-a25605d2b022?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60https://images.unsplash.com/photo-1508615039623-a25605d2b022?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment:fixed ;
+}
+.segment.main{
+    
+    margin-top:100px;
+    background-color: #D7E8EF ;
+}
+.icon{
+    font-size:2em;
+}
+#logo{
+    margin-left:50px;
+    margin-right:20px;
+    width:30px;
+    padding-top:8px;
+    
+}
+#icon_l{
+    font-size:2em;
+    
+}
+
+#delete{
+    display:inline;
+}
